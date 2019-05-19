@@ -5,7 +5,7 @@
 - Problem: Automatic Table and Date Search where users can use multiple search catagories that is visually attracting and easy to use.
 - Organization: Uses HTML, CSS, JavaScript and D3.js to build the web page.
 - How to run: Run the HTML web page.
-- Deployed app: 
+- Deployed app:https://github.com/kayambi/JavaScript-DOM-Manipulationdi-
 - Screenshots:
 ![](static/images/main_page.png)
 ![](static/images/menu.png)
